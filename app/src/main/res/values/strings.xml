@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Notes</string>
+
+    <string name="search_item">Search</string>
+    <string name="add_note">Add your first note!</string>
+    <string name="add_title_description">Please add a Title and a Description</string>
+    <string name="note_added">Note added</string>
+    <string name="note_error_adding">Error adding Note</string>
+
+    <string name="add_title">Enter Title</string>
+    <string name="add_description">Enter Description</string>
+    <string name="finish_add">ADD</string>
+</resources>
